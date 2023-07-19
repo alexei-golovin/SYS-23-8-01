@@ -60,6 +60,13 @@ https://github.com/alexei-golovin/sys-pattern-homework-8-01/blob/main/README.md
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
+### Ответ на задание 2
+
+![](https://github.com/alexei-golovin/SYS-23-8-01/blob/main/images/21.jpg)
+![](https://github.com/alexei-golovin/SYS-23-8-01/blob/main/images/22.jpg)
+![](https://github.com/alexei-golovin/SYS-23-8-01/blob/main/images/23.jpg)
+https://github.com/alexei-golovin/sys-pattern-homework-8-01/blob/main/.gitignore
+
 ---
 
 ### Задание 3

@@ -45,6 +45,7 @@
 ![](https://github.com/alexei-golovin/SYS-23-8-01/blob/main/images/14.jpg)
 ![](https://github.com/alexei-golovin/SYS-23-8-01/blob/main/images/15.jpg)
 ![](https://github.com/alexei-golovin/SYS-23-8-01/blob/main/images/16.jpg)
+
 https://github.com/alexei-golovin/sys-pattern-homework-8-01/blob/main/README.md
 
 ---
@@ -65,6 +66,7 @@ https://github.com/alexei-golovin/sys-pattern-homework-8-01/blob/main/README.md
 ![](https://github.com/alexei-golovin/SYS-23-8-01/blob/main/images/21.jpg)
 ![](https://github.com/alexei-golovin/SYS-23-8-01/blob/main/images/22.jpg)
 ![](https://github.com/alexei-golovin/SYS-23-8-01/blob/main/images/23.jpg)
+
 https://github.com/alexei-golovin/sys-pattern-homework-8-01/blob/main/.gitignore
 
 ---

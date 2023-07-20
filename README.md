@@ -83,6 +83,12 @@ https://github.com/alexei-golovin/sys-pattern-homework-8-01/blob/main/.gitignore
 
 В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
+### Ответ на задание 3
+
+![](https://github.com/alexei-golovin/SYS-23-8-01/blob/main/images/31.jpg)
+
+https://github.com/alexei-golovin/sys-pattern-homework-8-01/network
+
 ---
 ## Дополнительные задания* (со звёздочкой)
 
